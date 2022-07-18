@@ -7,21 +7,21 @@ const Footer = () => {
             <div className="footer">
                 <div id="row1" className="row ">
                     <a
-                        href="https://www.linkedin.com/in/shohanmondal01/"
+                        href="https://www.linkedin.com/in/prabhu nath/"
                         target="_blank"
                         rel="noreferrer"
                     >
                         <i className="fa fa-linkedin"></i>
                     </a>
                     <a
-                        href="https://github.com/shohan2001"
+                        href="https://github.com/prabhunath-codes"
                         target="_blank"
                         rel="noreferrer"
                     >
                         <i className="fa-brands fa-github"></i>
                     </a>
                     <a
-                        href="https://www.instagram.com/shohan_m01/"
+                        href="https://www.instagram.com/prabhunath_19/"
                         target="_blank"
                         rel="noreferrer"
                     >
@@ -29,7 +29,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div id="row1" className="row">
-                    © Developed By Shohan Mondal
+                    © Developed By prabhu nath
                 </div>
             </div>
         </footer>
